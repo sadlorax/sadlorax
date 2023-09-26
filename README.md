@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadlorax
 - 👀 I'm interesting in football, skateboarding and skiing.
-- 🌱 I’m currently learning physics and computing.
+- 🌱 I’m currently studying physics and computing.
 
 
 <!---
